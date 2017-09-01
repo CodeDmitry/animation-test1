@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+div {
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu-section {
+    width: 100vw;
+    height: 40px;
+    margin: 0px;
+    padding: 0px;
+    background-color: lightgray;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+#menu-section span {
+    margin-right: 20px;
+    font-size: 10pt;
+    font-family: Arial;
+    cursor: hand;
+    -webkit-touch-callout: none; 
+    -webkit-user-select: none; 
+    -khtml-user-select: none; 
+    -moz-user-select: none; 
+    -ms-user-select: none; 
+    user-select: none; 
+}
+
+.test {
+    border: 1px dashed #000000 !important;
+    box-sizing: border-box !important;
+}
+
+#canvas-section {
+    width: 100vw;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #336699;
+}
+
+canvas {
+    background-color: white;
+}
+
+#timeline-section {
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100px;
+}
