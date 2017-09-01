@@ -39,7 +39,9 @@ div {
 
 #canvas-section {
     width: 100vw;
+    max-width: 100vw;
     height: 500px;
+    overflow: none;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -48,6 +50,7 @@ div {
 
 canvas {
     background-color: white;
+    overflow: none;
 }
 
 #timeline-section {
