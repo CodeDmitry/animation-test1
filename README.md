@@ -1,2 +1,2 @@
 # animation_try1
-adoeb falsh attempt #1
+an animation web app attempt https://codedmitry.github.io/animation_try1/
